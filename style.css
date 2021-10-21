@@ -1,3 +1,5 @@
-.header {
-  color: blue;
+.topheader {
+  color: red;
+  font-size: 15px;
+  text-align: center;
 }
